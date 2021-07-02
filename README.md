@@ -1,7 +1,7 @@
 # gtfs_work
 
 ## Introduction
-`gtfs_functions_testing.py` uses the gtfs_functions library to undertake a series of analyses on GTFS data. This has been of interest recently with the UK Department for Transport providing more data on a regular basis at https://data.bus-data.dft.gov.uk/timetable/download/
+`gtfs_functions_testing.py` uses the gtfs_functions Python library to undertake a series of analyses on GTFS data. This has been of interest recently with the UK Department for Transport providing more data on a regular basis at https://data.bus-data.dft.gov.uk/timetable/download/
 
 ## Installation requirements
 **NB This python script requires the `gtfs_functions` library to be installed. This can be done using pip installer**
