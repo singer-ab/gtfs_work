@@ -254,7 +254,7 @@ def calculate_lengths(line_freq=None):
 def main():
     
     # Set folder name and set up files for process
-    folder_name = sys.argv[1]
+    folder_name = sys.argv[1].replace('.zip', '')
     
     print('\n')
     print('Checking for direction_id column in trips.txt file.')
