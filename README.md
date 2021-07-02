@@ -8,4 +8,4 @@ The .py file also calculates the distance of each bus route in the file and prod
 
 .py file is designed to be run from the command line with one argument passed:
 * Location of .zip archive of GTFS data from DfT Open Bus Data portal: https://data.bus-data.dft.gov.uk/timetable/download/
-* **NB filename passed to .py file should include .zip extension
+* **NB filename passed to .py file should include .zip extension**
